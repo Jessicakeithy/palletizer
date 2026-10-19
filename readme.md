@@ -39,5 +39,5 @@ O projeto foi construído utilizando os pilares fundamentais do desenvolvimento 
 ## 🧠🩷 Desenvolvido por: **Jessica Keithy** 
 
 * ⚙️ Desenvolvedora Front-end
-* 🐙[GitHub](https://github.com/Jessicakeithy)
+* 🐙[**GitHub**](https://github.com/Jessicakeithy)
 * 💼[**LinkedIn**](https://www.linkedin.com/in/jessica-keithy/?isSelfProfile=true)
