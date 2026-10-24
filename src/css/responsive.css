@@ -1,0 +1,46 @@
+@media (max-width: 520px) {
+    body {
+        overflow: auto;
+        padding: 20px 10px;
+        align-items: flex-start;
+    }
+
+    .card-paletizador {
+        width: 100%;
+        max-width: 400px;
+        border-width: 8px;
+        margin: 20px auto;
+    }
+
+    .conteudo-cartao {
+        padding: 20px 15px;
+        gap: 14px;
+    }
+
+    .card-paletizador h1 {
+        font-size: 21px;
+    }
+
+    #nome-paleta {
+        font-size: 13.5px;
+    }
+
+    .paleta-cores {
+        gap: 8px;
+    }
+
+    .bloco-cor {
+        height: 90px;
+    }
+
+    .bloco-cor span {
+        font-size: 10px;
+        padding: 3px 4px;
+    }
+
+    #btn-gerar {
+        padding: 11px 20px;
+        font-size: 14px;
+    }
+
+}
